@@ -1,0 +1,13 @@
+html, body {
+    font-family: serif;
+}
+body {
+    margin: 20px;
+    background-color: rgb(23, 23, 29);
+    
+}
+
+.t1{}
+.b1{
+    text-align: center;
+}

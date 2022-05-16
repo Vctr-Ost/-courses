@@ -1,0 +1,14 @@
+.header {
+	grid-area: header;
+	background-color: rgba(193, 255, 9, 0.499);
+	padding: 10px 20px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.header img {
+	max-height: 50px;
+}
+
+.item {
+	color: red;
+}

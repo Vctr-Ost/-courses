@@ -1,0 +1,35 @@
+.nav {
+	grid-area: nav;
+	background-color: rgba(128, 185, 255, 0.511);
+	padding: 90px 20px;
+}
+
+.nav div:not(:last-child) {
+	margin: 0 0 10px;
+}
+.nav div:nth-child(4) {
+	margin: 0 0 40px;
+}
+
+
+.item {
+	font-size: 30px;
+	color: rgb(85, 85, 85);
+	transition-duration: 0.2s;
+}
+.item:hover {
+	color: rgb(120, 0, 0);
+}
+a:focus{
+	color: rgb(157, 0, 0);
+}
+
+.friendsMenu {
+	margin: 50px 0 0;
+}
+.friendsMenuItem {
+	font-size: 35px;
+}
+
+
+

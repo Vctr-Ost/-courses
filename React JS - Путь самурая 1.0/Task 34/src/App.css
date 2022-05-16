@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(210, 210, 210);
+  min-height: 100%;
+}
+
+.App-wrapper {
+  display: grid;
+  margin: 0 auto;
+  max-width: 1200px;
+  min-height: 100vh;
+  grid-template-rows: 70px 1fr;
+  grid-template-columns: 10fr 2fr;
+  gap: 10px;
+  grid-template-areas: "header nav" "content nav";
+}
+
+.App-content {
+  grid-area: content;
+  background-color: rgb(224, 224, 224);
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  overflow: hidden;
+}
+
+a {
+  text-decoration: none;
+}

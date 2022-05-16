@@ -1,0 +1,23 @@
+.profInfo {
+    display: flex;
+    gap: 50px;
+    margin: 0 0 40px;
+}
+.avatar {
+    max-width: 200px;
+    border-radius: 50%;
+    border: 3px solid black;
+    overflow: hidden;
+}
+.name {
+    font-size: 36px;
+    margin: 10px 0 40px;
+    font-weight: 500;
+}
+.info {
+
+}
+.item {
+    font-size: 22px;
+    padding-bottom: 5px;
+}

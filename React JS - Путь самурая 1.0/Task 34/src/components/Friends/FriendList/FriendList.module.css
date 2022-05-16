@@ -1,0 +1,19 @@
+.friendsList {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.friend {
+    padding: 5px;
+}
+.friendName {
+    text-align: center;
+}
+.imgBlock {
+    border-radius: 50%;
+    overflow: hidden;
+    object-fit: cover;
+}
+.imgBlock img {
+    width: 100%;
+}

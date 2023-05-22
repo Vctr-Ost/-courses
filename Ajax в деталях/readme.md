@@ -1,3 +1,3 @@
 # AJAX в деталях
 
-DIMYCH
+DIMYCH Ajax course

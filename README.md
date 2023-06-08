@@ -1,6 +1,2 @@
 # Courses
-My Learning Cousres.ф
-ф
-ф
-ф
-ф
+My Learning Cousres.
